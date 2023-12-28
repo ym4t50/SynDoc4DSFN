@@ -1,0 +1,36 @@
+model: dsfn
+pretrained: false
+pretrained_config: DSFN_SynDocDS
+pretrained_weight: best_loss
+
+dataset_name: SynDocDS
+sampling: 10
+height: 512
+width: 512
+
+batch_size: 2
+learning_rate: 0.0001
+lr_start: 0.00001
+lr_finish: 0.00001
+warmup_epoch: 15
+max_epoch: 1000
+save_period: 50
+
+num_workers: 2
+
+loss_functions_free:
+  - l1
+  - bce
+  - perceptual
+
+loss_functions_shadow:
+  - l1
+
+lambdas:
+  - 2.0
+  - 100.0
+  - 20.0
+
+betas:
+  - 0.5
+  - 0.999

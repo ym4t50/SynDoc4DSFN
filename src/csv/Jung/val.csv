@@ -1,0 +1,8 @@
+,shadow_image,shadowfree_image,shadow_matte,background_image,background_color_csv
+0,../datasets/Jung/shadow_image/rect_31.jpg,../datasets/Jung/shadowfree_image/rect_31.jpg,../datasets/Jung/shadow_mask/rect_31.jpg,../datasets/Jung/background_color_image/rect_31.jpg,../datasets/Jung/background_color_csv/rect_31.csv
+1,../datasets/Jung/shadow_image/rect_32.jpg,../datasets/Jung/shadowfree_image/rect_32.jpg,../datasets/Jung/shadow_mask/rect_32.jpg,../datasets/Jung/background_color_image/rect_32.jpg,../datasets/Jung/background_color_csv/rect_32.csv
+2,../datasets/Jung/shadow_image/rect_33.jpg,../datasets/Jung/shadowfree_image/rect_33.jpg,../datasets/Jung/shadow_mask/rect_33.jpg,../datasets/Jung/background_color_image/rect_33.jpg,../datasets/Jung/background_color_csv/rect_33.csv
+3,../datasets/Jung/shadow_image/rect_34.jpg,../datasets/Jung/shadowfree_image/rect_34.jpg,../datasets/Jung/shadow_mask/rect_34.jpg,../datasets/Jung/background_color_image/rect_34.jpg,../datasets/Jung/background_color_csv/rect_34.csv
+4,../datasets/Jung/shadow_image/rect_35.jpg,../datasets/Jung/shadowfree_image/rect_35.jpg,../datasets/Jung/shadow_mask/rect_35.jpg,../datasets/Jung/background_color_image/rect_35.jpg,../datasets/Jung/background_color_csv/rect_35.csv
+5,../datasets/Jung/shadow_image/rect_36.jpg,../datasets/Jung/shadowfree_image/rect_36.jpg,../datasets/Jung/shadow_mask/rect_36.jpg,../datasets/Jung/background_color_image/rect_36.jpg,../datasets/Jung/background_color_csv/rect_36.csv
+6,../datasets/Jung/shadow_image/rect_37.jpg,../datasets/Jung/shadowfree_image/rect_37.jpg,../datasets/Jung/shadow_mask/rect_37.jpg,../datasets/Jung/background_color_image/rect_37.jpg,../datasets/Jung/background_color_csv/rect_37.csv
