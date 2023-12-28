@@ -91,6 +91,9 @@ Training/validation/test splits are specified in `./datasets/csv/[DATASETNAME]/`
 python3 train.py configs/DSFN_SynDocDS/config.yaml
 ```
 If you want to use W&B to display output images, losses, and evaluation scores, you can use `--use_wandb` option.
+  
+### Pre-trained model
+Please download [here](https://drive.google.com/file/d/1j00v2CXvyMqWcu2GQrYSurmDX5yXm0AR/view?usp=drive_link).  
 
 ### FineTuning  
 Please check an example config file for finetuning, `DSFN_SynDocDS_FT_[DATASETNAME]/config.yaml`.
